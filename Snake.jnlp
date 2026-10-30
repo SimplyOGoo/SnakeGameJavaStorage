@@ -13,5 +13,5 @@
         <jar href="Snake.jar" main="true"/>
     </resources>
 
-    <application-desc main-class="Main"/>
+    <application-desc main-class="SnakeGame"/>
 </jnlp>
