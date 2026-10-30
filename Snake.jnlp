@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+"
+      codebase="https://simplyogoo.github.io/SnakeGameJavaStorage/"
+      href="Snake.jnlp">
+
+    <information>
+        <title>Snake Game</title>
+        <vendor>Anononono</vendor>
+    </information>
+
+    <resources>
+        <j2se version="11+" />
+        <jar href="Snake.jar" main="true"/>
+    </resources>
+
+    <application-desc main-class="Main"/>
+</jnlp>
